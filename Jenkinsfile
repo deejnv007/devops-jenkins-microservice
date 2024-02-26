@@ -12,6 +12,7 @@
     
 //}
 
+// DECLARATIVE PIPELINE
 pipeline {
 	agent any
 	 stages{
